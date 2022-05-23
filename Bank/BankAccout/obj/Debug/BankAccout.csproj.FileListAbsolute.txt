@@ -1,0 +1,7 @@
+D:\HocKy5\CNPM\gitTest\Bank\BankAccout\bin\Debug\BankAccout.exe.config
+D:\HocKy5\CNPM\gitTest\Bank\BankAccout\bin\Debug\BankAccout.exe
+D:\HocKy5\CNPM\gitTest\Bank\BankAccout\bin\Debug\BankAccout.pdb
+D:\HocKy5\CNPM\gitTest\Bank\BankAccout\obj\Debug\BankAccout.csproj.AssemblyReference.cache
+D:\HocKy5\CNPM\gitTest\Bank\BankAccout\obj\Debug\BankAccout.csproj.CoreCompileInputs.cache
+D:\HocKy5\CNPM\gitTest\Bank\BankAccout\obj\Debug\BankAccout.exe
+D:\HocKy5\CNPM\gitTest\Bank\BankAccout\obj\Debug\BankAccout.pdb

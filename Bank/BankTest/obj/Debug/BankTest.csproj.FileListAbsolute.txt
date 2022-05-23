@@ -1,0 +1,17 @@
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\BankTest.dll
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\BankTest.pdb
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\BankAccout.exe
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\BankAccout.pdb
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\BankAccout.exe.config
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\obj\Debug\BankTest.csproj.AssemblyReference.cache
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\obj\Debug\BankTest.csproj.CoreCompileInputs.cache
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\obj\Debug\BankTest.csproj.CopyComplete
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\obj\Debug\BankTest.dll
+D:\HocKy5\CNPM\gitTest\Bank\BankTest\obj\Debug\BankTest.pdb
